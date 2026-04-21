@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./style.css";
 import { FitnessProvider } from "./context/FitnessContext";
 import AppRouter from "./router/Approuter";
 

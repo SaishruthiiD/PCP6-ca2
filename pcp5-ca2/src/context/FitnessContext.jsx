@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useReducer } from "react";
-import { fitnessReducer } from "../pages/reducer/fitnessReducer";
+import { fitnessReducer } from "../reducer/fitnessReducer";
 
 const FitnessContext = createContext();
 

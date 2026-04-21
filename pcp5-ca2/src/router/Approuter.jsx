@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import MainLayout from "../layout/mainLayout";
-import Activities from "../pages/Activities";
-import ActivityDetail from "../pages/ActivityDetail";
+import Activities from "../pages/home";
+import ActivityDetail from "../pages/activitesDetails";
 import ActivityFilter from "../components/activityFilter";
 import Stats from "../pages/stats";
 
